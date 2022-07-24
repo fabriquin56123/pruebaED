@@ -20,6 +20,7 @@ public class ProyectoClonado {
         // TODO code application logic here
         System.out.println("Cosme god");
         String hola ="bb";
+        string a ="a";
         
         //Ordenamiento de insercion
         Scanner in = new Scanner(System.in);
