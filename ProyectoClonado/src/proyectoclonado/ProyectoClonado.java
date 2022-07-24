@@ -18,6 +18,8 @@ public class ProyectoClonado {
         // TODO code application logic here
         System.out.println("Cosme god");
         String hola ="bb";
+        String xd = "xd";
+        String gaa = "gaa";
     }
     
 }
