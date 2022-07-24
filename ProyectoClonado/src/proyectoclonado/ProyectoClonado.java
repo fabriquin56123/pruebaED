@@ -20,6 +20,7 @@ public class ProyectoClonado {
         String hola ="bb";
         String xd = "xd";
         String gaa = "gaa";
+        String gaaa = "gaa";
     }
     
 }
